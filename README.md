@@ -1,6 +1,6 @@
 # All Restaurants in Lowell, Massachusetts, US
 
-> Free BeamStation sample export with 46 rows and masked direct-contact fields.
+> Free BeamStation sample export with 39 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `561237` |
 | Location | Lowell |
 | Category | Restaurants |
-| Full dataset size | 468 records |
-| Free sample size | 46 records (9.83%) |
-| Last export | 2026-04-14T20:28:26.986445+00:00 |
+| Full dataset size | 393 records |
+| Free sample size | 39 records (9.92%) |
+| Last export | 2026-04-21T22:39:13.318580+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lowell-massachusetts-us-sample-561237/releases/download/sample-latest/beamstation_561237_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
