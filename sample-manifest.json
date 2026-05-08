@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6375d21a-0edf-4e60-8f51-7730b5528d71",
+  "export_job_id": "a30278b5-e804-4c8c-81c1-eca9f07ea12e",
   "id_short": 561237,
-  "published_at": "2026-04-29T07:44:10Z",
+  "published_at": "2026-05-08T19:07:33Z",
   "repo_name": "all-restaurants-in-lowell-massachusetts-us-sample-561237",
   "sample_asset_name": "beamstation_561237_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/561237/beamstation_561237_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "c3eca5f67430d70c54e14f945810ca46f377eb1e081a0b383238cde2fec4e850",
-  "sample_size_bytes": 149593,
-  "total_records": 454
+  "sample_records": 47,
+  "sample_sha256": "5a01e51c4172ad2dbd18aebb52c70b4f738a1bb88d37ed492f98622995cac63c",
+  "sample_size_bytes": 177519,
+  "total_records": 473
 }
